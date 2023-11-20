@@ -1,2 +1,1 @@
-# Projeto-Typescript
-Projeto finalizado da dimond 
+Criando classes com typescript
